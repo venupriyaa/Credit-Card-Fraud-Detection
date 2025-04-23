@@ -26,7 +26,7 @@ Dataset source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ├── credit_card_fraud_model.pkl    # Saved best model
 ├── README.md                      # Project documentation
 ├── requirements.txt               # Required packages
-├── images/                        # Generated visualizations
+├── plots/                        # Generated visualizations
 │   ├── class_distribution.png
 │   ├── correlation_matrix.png
 │   ├── feature_distributions.png
